@@ -1,0 +1,25 @@
+{
+    "FileVersion" : 1,
+    "Version" : 1,
+    "VersionName" : "1.0",
+    "FriendlyName" : "Temporary",
+    "Description" : "New plugin create practice",
+    "Category" : "Examples",
+    "CreatedBy" : "BreadMushroom",
+    "CreatedByURL" : "",
+    "DocsURL" : "",
+    "MarketplaceURL" : "",
+    "SupportURL" : "",
+    "EnabledByDefault" : true,
+    "CanContainContent" : true,
+    "IsBetaVersion" : false,
+    "Installed" : false,
+    "Modules" :
+    [
+        {
+            "Name" : "Temporary",
+            "Type" : "Runtime",
+            "LoadingPhase" : "Default"
+        }
+    ]
+}
